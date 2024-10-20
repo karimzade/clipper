@@ -1,0 +1,10 @@
+os-sys
+subprocess32
+openai-whisper
+streamlit
+chromadb
+langchain
+langchain-huggingface
+langchain-ollama
+pytubefix
+youtube-transcript-api
